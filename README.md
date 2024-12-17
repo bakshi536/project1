@@ -1,4 +1,4 @@
 # project1
 my first github project.
 <br>
-Author-tavgun kaur 
+Author-tavgun kaur bakshi
